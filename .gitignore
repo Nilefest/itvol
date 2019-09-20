@@ -1,0 +1,5 @@
+# Config files
+/application/config.php
+
+# System script
+*.bat
