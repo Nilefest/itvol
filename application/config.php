@@ -20,9 +20,9 @@ $config = array(
 	'db_type'      =>      'pdo',
 	'db_hostname'  =>      'localhost',
 	'db_port'      =>      3306,
-	'db_username'  =>      'u0701138_root',
-	'db_password'  =>      'nilefest321',
-	'db_database'  =>      'u0701138_itvol',
+	'db_username'  =>      'root',
+	'db_password'  =>      'root',
+	'db_database'  =>      'itvoldb',
     
 	// Mail
 	'mail_host'    =>      '',
@@ -32,7 +32,7 @@ $config = array(
 	'mail_sender'  =>      '',
     
     // Tag for session and cookie
-	'session_tag'  =>      'itvol_nlf',
+	'session_tag'  =>      'itvol',
     
 	// Custom style, script
 	'custom_css'   =>      array(),
